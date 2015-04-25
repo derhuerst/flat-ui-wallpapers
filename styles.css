@@ -1,0 +1,39 @@
+body{
+	margin: 0;
+	background-color: white;
+	color: #555;
+	font-family: "Helvetica Neue", sans-serif;
+	font-size: 150%;
+}
+
+h1{
+	color: #777;
+	font-weight: 200;
+	font-size: 200%;
+	text-align: center;
+	line-height: 1;
+	margin: 2em 0;
+}
+
+p{
+	text-align: center;
+	line-height: 1;
+	margin: 4em 0;
+}
+
+a{
+	text-decoration: none;
+	color: #3498db;
+}
+
+img{
+	display: block;
+	width: 100%;
+}
+
+#heart{
+	color: #e74c3c;
+	font-size: 140%;
+	padding-left: 0.1em;
+	padding-right: 0.1em;
+}
